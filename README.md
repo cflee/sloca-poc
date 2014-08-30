@@ -2,8 +2,8 @@
 
 Proof of concept code for certain aspects of SLOCA.
 
-## Important things
-`generate.php` allows you to pseudo-randomly generate data based on certain assumptions. It should only be used for getting some data to briefly exercise your code. You should be writing your own test cases and test data in order to reliably test all your edge cases.
+## Useful things
+`generate.php` allows you to pseudo-randomly generate data based on certain assumptions. You should write your own test cases and test data to reliably test all your edge cases. This tool should only be used to (i) get some data just to make sure your code is running, or (ii) generate lots of data to test how well your code scales.
 
 ## Usage
 You will need composer somewhere.
